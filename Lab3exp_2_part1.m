@@ -18,7 +18,9 @@ false_detection=0;
 immagini_processate=0;
 
 for k = 1:length(Im)
-    conta_correct(k)=0;
+%a cosa serve avere conta_correct, conta_FA e missed come vettori con indice il numero dell'immagine, visto che li usiamo come contatori che ad ogni k passiamo ad 
+%un nuovo elemento e non riaccediamo più ai precedenti?
+    conta_correct(k)=0; 
     conta_FA(k)=0;
     missed(k)=0;
     correct_non_detection(k)=0;
