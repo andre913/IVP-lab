@@ -1,3 +1,9 @@
 Verificare a occhio le redundancy delle diverse immagini
-E commentare i risultati riguardo il rate di compressione
+E commentare i risultati riguardo il rate di compressione. 
+
+Coding redundancy: verificare che immagini con
+colori uniformi siano compresse peggio (probabilità uniforme tra bit) 
+
+Inter-pixels redundancy: verificare che le immagini aventi alte frequenze sono compresse peggio. 
+(Alti valori nel vettore e dopo il predictor) 
 
