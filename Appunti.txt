@@ -5,5 +5,5 @@ Coding redundancy: verificare che immagini con
 colori uniformi siano compresse peggio (probabilità uniforme tra bit) 
 
 Inter-pixels redundancy: verificare che le immagini aventi alte frequenze sono compresse peggio. 
-(Alti valori nel vettore e dopo il predictor) 
+(Alti valori nel vettore 'e' dopo il predictor) 
 
