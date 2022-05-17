@@ -1,0 +1,3 @@
+Verificare a occhio le redundancy delle diverse immagini
+E commentare i risultati riguardo il rate di compressione
+
